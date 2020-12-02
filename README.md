@@ -1,0 +1,2 @@
+# BaseAspMvc
+new project
